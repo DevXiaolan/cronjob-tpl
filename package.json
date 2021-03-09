@@ -42,6 +42,6 @@
     "typescript": "^4.1.5"
   },
   "dependencies": {
-    "@mohism/core": "^1.1.22"
+    "@mohism/core": "^1.1.23"
   }
 }
